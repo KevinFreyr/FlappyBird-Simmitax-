@@ -1,0 +1,18 @@
+// bower:scss
+@import "../bower_components/font-awesome/scss/font-awesome.scss";
+// endbower
+
+body {
+    background: yellow;
+}
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+@import '_game-canvas';
+@import '_player';
+@import '_scoreboard';
