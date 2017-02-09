@@ -1,5 +1,8 @@
 # HTML5 CSS-based Game
 
+## A flappy bird game where SDG is flying to Tortola
+
+
 This game project has the following:
 
 * 1024x768 pixel game canvas.
